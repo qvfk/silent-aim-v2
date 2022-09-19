@@ -10,7 +10,7 @@ local Smoothness = 4
  
 local FOV_Radius = 250
  
-local FOV_Visible = false
+local FOV_Visible = true
  
  
  
